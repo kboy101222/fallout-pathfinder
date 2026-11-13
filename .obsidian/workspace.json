@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pathfinder Fallout Conversion/Basic Rule Changes.md",
+                "file": "Pathfinder Fallout Conversion/What Makes You S.P.E.C.I.A.L..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Basic Rule Changes"
+              "title": "What Makes You S.P.E.C.I.A.L."
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Planning/Session 1-ish.md",
+                "file": "Pathfinder Fallout Conversion/What Makes You S.P.E.C.I.A.L..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,6 +169,16 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "4c55880e38cb26e4",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ]
       }
@@ -190,11 +200,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0f5ff28e3d0579c2",
+  "active": "c022d7a50467928c",
   "lastOpenFiles": [
+    "Pathfinder Fallout Conversion/Basic Rule Changes.md",
+    "Pathfinder Fallout Conversion/What Makes You S.P.E.C.I.A.L..md",
     "README.md",
     "Untitled.base",
-    "Pathfinder Fallout Conversion/Basic Rule Changes.md",
     "Session Planning/Session 1-ish.md",
     "Pathfinder Fallout Conversion",
     "Session Planning",

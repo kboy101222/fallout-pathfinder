@@ -1,1 +1,1 @@
-# fallout-pathfinder
+My Session notes for my Fallout Campaign and my Fallout Pathfinder Rules Conversion (WIP)

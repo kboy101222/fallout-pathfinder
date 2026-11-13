@@ -1,0 +1,1 @@
+SPECIAL represents your character's physical and mental attributes. They help determine your overall skills and other attributes, such as 
