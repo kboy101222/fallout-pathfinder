@@ -185,13 +185,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c022d7a50467928c",
+  "active": "0f5ff28e3d0579c2",
   "lastOpenFiles": [
-    "Session Planning/Session 1-ish.md",
+    "Untitled.base",
     "Pathfinder Fallout Conversion/Basic Rule Changes.md",
+    "Session Planning/Session 1-ish.md",
     "Pathfinder Fallout Conversion",
     "Session Planning",
     "Welcome.md"
